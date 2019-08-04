@@ -209,7 +209,7 @@ h3 {
         grid-column: 10 / 12;
     }
     .estimates {
-        grid-column: auto / span 8;
+        grid-column: 1 / 6;
         margin-left: 5%;
     }
     .reputation, .history {
