@@ -1,0 +1,26 @@
+@media (-webkit-device-pixel-ratio: 2) and (orientation: landscape) {
+    body {
+        font-size: 1.25em;
+    }
+}
+@media (-webkit-device-pixel-ratio: 3) and (orientation: landscape) {
+    body {
+        font-size: 1.5em;
+    }
+}
+@media (-webkit-device-pixel-ratio: 2) and (orientation: portrait) {
+    body {
+        font-size: 2em;
+    }
+}
+
+@media (-webkit-device-pixel-ratio: 3) and (orientation: portrait) {
+    body {
+        font-size: 3em;
+    }
+}
+
+.navLink {
+    font-size: 2em;
+    font-weight: bold;
+}
