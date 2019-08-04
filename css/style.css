@@ -215,9 +215,7 @@ h3 {
     .reputation, .history {
         margin-left: 5%;
     }
-    .logo2 {
-        grid-column: auto / span 3;
-    }
+    
     .estimates,
     .logo2 {
         grid-row: auto / span 2;
